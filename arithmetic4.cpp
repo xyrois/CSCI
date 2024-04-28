@@ -2,8 +2,8 @@
 /*
 
 This progam reads a csv file containing arithmetic expressions and their corresponding
-answers, generate questions and answer them, calculate and report the correct rate, 
-based on the correct percentage, print the corresponding letter grade.
+answers, generates questions, and answers them. Then, calculates and reports the correct rate, 
+based on the correct percentage, and prints the corresponding letter grade.
 
 */
 //
