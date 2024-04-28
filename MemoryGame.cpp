@@ -1,12 +1,7 @@
 //
 /*
-Author: Brinta Kundu
-Course: CSCI-135
-Instructor: Professor Yi
-Assignment: Project 2 Task D
-
-
-
+Matching game where the user has to remember the position of the cards and correctly 
+match two cards with the same number, that are in different positions.
 */
 //
 
