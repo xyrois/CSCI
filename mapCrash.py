@@ -1,8 +1,4 @@
-#Name:  Brinta Kundu
-#Email: brinta.kundu37@myhunter.cuny.edu
-#Date:  November 13,2023
-#This program creates a map with markers for all traffic collisions
-  
+
 import folium
 import pandas as pd
 
