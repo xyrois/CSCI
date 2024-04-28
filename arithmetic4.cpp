@@ -1,12 +1,9 @@
 //
 /*
-Author: Brinta Kundu
-Course: CSCI-135
-Instructor: Professor Yi
-Assignment: Project1 Task D
 
 This progam reads a csv file containing arithmetic expressions and their corresponding
-answers, generate questions and answer them, calculate and report the correct rate. Based on the correct percentage, print the corresponding letter grade.
+answers, generate questions and answer them, calculate and report the correct rate, 
+based on the correct percentage, print the corresponding letter grade.
 
 */
 //
